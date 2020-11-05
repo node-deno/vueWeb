@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84c36487-275f-4dca-960a-d9cc9be02852" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Main1.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Main1.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jjktrJ9jN3fEt10Uz6ZCbSFzm1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TBY\Desktop\demo\1\src\views" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84c36487-275f-4dca-960a-d9cc9be02852" name="Default Changelist" comment="" />
+      <created>1604325107495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604325107495</updated>
+      <workItem from="1604325109872" duration="62000" />
+      <workItem from="1604325336860" duration="8000" />
+      <workItem from="1604325366679" duration="14000" />
+      <workItem from="1604325396136" duration="3199000" />
+      <workItem from="1604372242591" duration="6249000" />
+      <workItem from="1604404534687" duration="6809000" />
+      <workItem from="1604487801207" duration="2100000" />
+      <workItem from="1604491978583" duration="5965000" />
+      <workItem from="1604537853785" duration="1174000" />
+      <workItem from="1604541657791" duration="2038000" />
+      <workItem from="1604556521462" duration="4555000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2081" y="0" key="SettingsEditor" timestamp="1604326895334">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2081" y="0" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1604326895334" />
+    <state x="527" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1604374907294">
+      <screen x="0" y="0" width="1728" height="1112" />
+    </state>
+    <state x="527" y="243" width="672" height="678" key="search.everywhere.popup/0.0.1728.1112@0.0.1728.1112" timestamp="1604374907294" />
+  </component>
+</project>
