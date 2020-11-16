@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84c36487-275f-4dca-960a-d9cc9be02852" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Main1.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Main1.vue" afterDir="false" />
-    </list>
+    <list default="true" id="84c36487-275f-4dca-960a-d9cc9be02852" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +61,7 @@
       <workItem from="1604491978583" duration="5965000" />
       <workItem from="1604537853785" duration="1174000" />
       <workItem from="1604541657791" duration="2038000" />
-      <workItem from="1604556521462" duration="4555000" />
+      <workItem from="1604556521462" duration="5153000" />
     </task>
     <servers />
   </component>
